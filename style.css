@@ -30,13 +30,7 @@ body {
 	text-align: center;
 }
 
-.buttons {
-	padding: 1rem;
-    display: block;   
-    color:  #BF8333;
-    font-size: 1rem;
-  }
-}
+
 .buttons:hover {
     color: red;
     background-color: #ECD29C;
