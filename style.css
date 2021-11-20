@@ -8,8 +8,6 @@ html {
 }
 
 img {
-    /* Never allow images to be bigger
-    than their parent */
     max-width: 100%;
 }
 
@@ -22,4 +20,7 @@ body {
 
 .background-image {
 	background-image: url("/assets/backgroundimage.jpeg");
+	min-width:  100%;
+	max-width:  100%;
+}
 }
