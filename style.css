@@ -29,3 +29,9 @@ body {
 	font-family: serif;
 	text-align: center;
 }
+
+
+.buttons:hover {
+	  background: #BF8333;
+    color: #E4FDE9;
+}
