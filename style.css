@@ -34,7 +34,7 @@ p {
 }
 
 .my-title {
-	color: #F3E9DC;
+	color: #5E3023;
 	font-family: serif;
 	text-align: center;
 }
@@ -42,7 +42,6 @@ p {
 .buttons {
 	color: #5E3023;
 	font-size: 1rem;
-	textalign:  center;
 }
 
 .buttons:hover {
