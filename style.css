@@ -42,7 +42,6 @@ p {
 .buttons {
 	color: #5E3023;
 	font-size: 1rem;
-	display: block; 
 }
 
 .buttons:hover {
