@@ -43,3 +43,8 @@ body {
 .buttons:hover {
     color: #E4FDE9;
 }
+
+.section {
+    padding: 2rem 1rem 1rem;
+    margin: 1rem;
+}
