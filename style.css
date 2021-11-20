@@ -40,7 +40,7 @@ body {
   }
 }
 .buttons:hover {
-    color: #E4FDE9;
+    color: #red;
     background-color: #ECD29C;
 }
 
