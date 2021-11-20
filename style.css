@@ -30,8 +30,16 @@ body {
 	text-align: center;
 }
 
-
+.buttons {
+	padding: 1rem;
+    display: block;   
+    color:  #BF8333;
+    background-color: #ECD29C;
+    font-size: 1rem;
+    border: solid;
+    border-color: #BF8333;
+  }
+}
 .buttons:hover {
-	  background: #BF8333;
     color: #E4FDE9;
 }
