@@ -18,31 +18,41 @@ body {
 	font-size: 2rem;
 }
 
+p {
+	text-align: center;
+	font-size: 2rem;
+	color: #5E3023;
+}
+
+.blurbs {
+	color: red;
+	font-size: 1rem;
+}
+
 .background-image {
 	background-image: url("/assets/backgroundimage.jpeg");
-	min-width:  100%;
-	max-width:  100%;
 }
 
 .my-title {
-	color: red;
+	color: #895737;
 	font-family: serif;
 	text-align: center;
 }
 
 .buttons {
-	color: mediumpurple;
+	color: #5E3023;
 }
+
 .buttons:hover {
-    color: red;
-    background-color: #ECD29C;
+    color: #C08552;
+   
 }
 
 .section {
     padding: 2rem 1rem 1rem;
     margin: 1rem;
-    background: #FFECB3;
-    border: solid;
-    border-color: #DAA638;
+    background: #F3E9DC;
+    border: dotted;
+    border-color: #5E3023;
 }
 }
