@@ -32,7 +32,7 @@ p {
 .background-image {
 	background-image: url("/assets/backgroundimage.jpeg");
 	background-repeat: no-repeat;
-	background-size: 600px 250px;
+	background-size: 600px 400px;
 }
 
 .my-title {
