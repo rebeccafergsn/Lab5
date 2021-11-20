@@ -1,3 +1,18 @@
+html {
+    box-sizing: border-box;
+    }
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+img {
+    /* Never allow images to be bigger
+    than their parent */
+    max-width: 100%;
+}
+
 body {
 	max-width: 600px;
 	margin: 0 auto;
@@ -7,5 +22,4 @@ body {
 
 .background-image {
 	background-image: url("/assets/backgroundimage.jpeg");
-	align-content: center;
 }
