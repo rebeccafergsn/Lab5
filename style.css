@@ -38,7 +38,7 @@ body {
   }
 }
 .buttons:hover {
-    color: #red;
+    color: red;
     background-color: #ECD29C;
 }
 
