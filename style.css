@@ -30,7 +30,9 @@ body {
 	text-align: center;
 }
 
-
+.buttons {
+	color: mediumpurple;
+}
 .buttons:hover {
     color: red;
     background-color: #ECD29C;
