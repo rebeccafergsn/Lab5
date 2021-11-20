@@ -31,7 +31,6 @@ p {
 
 .background-image {
 	background-image: url("/assets/backgroundimage.jpeg");
-	opacity: 0.5;
 }
 
 .my-title {
