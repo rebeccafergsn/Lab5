@@ -35,8 +35,6 @@ body {
     display: block;   
     color:  #BF8333;
     font-size: 1rem;
-    border: solid;
-    border-color: #BF8333;
   }
 }
 .buttons:hover {
